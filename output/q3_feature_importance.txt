@@ -1,0 +1,17 @@
+0        MedInc
+5      AveOccup
+7     Longitude
+1      HouseAge
+6      Latitude
+2      AveRooms
+3     AveBedrms
+4    Population
+Name: feature, dtype: object:0    0.567666
+5    0.154247
+7    0.074295
+1    0.067540
+6    0.057086
+2    0.053436
+3    0.014782
+4    0.010947
+Name: xgb_importance, dtype: float32
